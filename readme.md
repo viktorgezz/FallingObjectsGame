@@ -15,3 +15,6 @@ Falling Objects — это простая и увлекательная Android-
  
 <img src="screenshots/screenshots_start.png" width="250"/> <img src="screenshots/screenshots_game.png" width="250"/> <img src="screenshots/screenshots_over.png" width="250"/>
 
+
+Ссылка для скачивания .apk: https://clck.ru/3Ljvof
+
